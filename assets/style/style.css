@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap'); 
+
+*{font-family: 'Roboto',sans-serif} 
+.logo{
+    width: 90px; 
+} 
+.green-txt{color: #54D1BB; }  
+
+.white-txt { color: white;} 
+
+.blue-txt {color: #2f4076;}
+
+.yellow-txt {color: yellow;} 
+
+.purple-txt {color: purple;} 
+
+.grey-txt {color: grey;}
+
+/* Menu */ 
+.logo { width: 90px; }
+
+.navbar-itens a {
+    color: #54D1BB; 
+   
+    } 
+/* contact */  
+.contact{ 
+    background: linear-gradient(180deg, #46BEB2 0%, #3A7C95 100%);
+
+}
